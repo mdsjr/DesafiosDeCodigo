@@ -34,6 +34,39 @@ Para executar um desafio em C#:
 cd CSharp
 dotnet run Desafio1.cs
 ````
+### JavaScript
+Para executar um desafio em JavaScript:
 
+```sh
+cd JavaScript
+node desafio1.js
+````
+
+### Python
+Para executar um desafio em Python:
+
+```sh
+cd Python
+python3 desafio1.py
+````
+
+### Kotlin
+Para executar um desafio em Kotlin:
+
+```sh
+cd Kotlin
+kotlinc Desafio1.kt -include-runtime -d Desafio1.jar
+java -jar Desafio1.jar
+````
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+
+1. Fork o projeto
+2. Crie uma nova branch (`git checkout -b feature/nome-da-sua-feature`)
+3. Commit suas mudanças (`git commit -m 'Adicionei uma nova feature'`)
+4. Push para a branch (`git push origin feature/nome-da-sua-feature`)
+5. Abra um Pull Request
 
 
