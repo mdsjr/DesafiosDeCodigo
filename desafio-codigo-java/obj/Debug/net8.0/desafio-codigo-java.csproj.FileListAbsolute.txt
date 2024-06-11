@@ -1,0 +1,4 @@
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-java\obj\Debug\net8.0\desafio-codigo-java.GeneratedMSBuildEditorConfig.editorconfig
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-java\obj\Debug\net8.0\desafio-codigo-java.AssemblyInfoInputs.cache
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-java\obj\Debug\net8.0\desafio-codigo-java.AssemblyInfo.cs
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-java\obj\Debug\net8.0\desafio-codigo-java.csproj.CoreCompileInputs.cache

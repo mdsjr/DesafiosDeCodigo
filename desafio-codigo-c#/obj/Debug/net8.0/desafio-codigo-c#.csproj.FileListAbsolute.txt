@@ -1,0 +1,14 @@
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-c#\bin\Debug\net8.0\desafio-codigo-c#.exe
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-c#\bin\Debug\net8.0\desafio-codigo-c#.deps.json
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-c#\bin\Debug\net8.0\desafio-codigo-c#.runtimeconfig.json
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-c#\bin\Debug\net8.0\desafio-codigo-c#.dll
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-c#\bin\Debug\net8.0\desafio-codigo-c#.pdb
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-c#\obj\Debug\net8.0\desafio-codigo-c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-c#\obj\Debug\net8.0\desafio-codigo-c#.AssemblyInfoInputs.cache
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-c#\obj\Debug\net8.0\desafio-codigo-c#.AssemblyInfo.cs
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-c#\obj\Debug\net8.0\desafio-codigo-c#.csproj.CoreCompileInputs.cache
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-c#\obj\Debug\net8.0\desafio-codigo-c#.dll
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-c#\obj\Debug\net8.0\refint\desafio-codigo-c#.dll
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-c#\obj\Debug\net8.0\desafio-codigo-c#.pdb
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-c#\obj\Debug\net8.0\desafio-codigo-c#.genruntimeconfig.cache
+D:\13.bootCampJava\DesafiosDeCodigo\desafio-codigo-c#\obj\Debug\net8.0\ref\desafio-codigo-c#.dll
